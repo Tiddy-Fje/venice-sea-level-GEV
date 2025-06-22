@@ -21,3 +21,6 @@ To generate a pdf of the report, standard `LaTeX` command line prompts of your l
 
 ## Acknowledgements
 This project was developed as part of the Applied Statistics course at EPFL. I thank Dr. Linda Mhalla for providing the project statement and initial guidance. I also thank Laurent Brugnard and Rayan Harfouche for valuable discussions. 
+
+## Note about Git history
+This project was initially submitted to a Github classroom repo. This version is a copy of that submission that is posted on my personal Github account. I could unfortunately not recover the original Git history.  
